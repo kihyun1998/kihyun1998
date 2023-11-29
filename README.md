@@ -9,7 +9,7 @@
 
 ### Framework
 
-<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/gRPC-00ADD8?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/gRPC-00ADD8?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/react-1e1e1e?style=flat-square&logo=react&logoColor=61DAFB"/>
 
 <!--
 **kihyun1998/kihyun1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
