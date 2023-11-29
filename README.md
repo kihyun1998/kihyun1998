@@ -1,6 +1,8 @@
 <a href="https://kihyun1998.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-### Hi there 👋
+### 🦾 Skills
+
+<img src="https://img.shields.io/badge/golang-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 
 <!--
 **kihyun1998/kihyun1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
