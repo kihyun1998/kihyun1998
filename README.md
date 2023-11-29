@@ -1,4 +1,4 @@
-<a href="https://kihyun1998.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a href="https://kihyun1998.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ### Hi there 👋
 
