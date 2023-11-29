@@ -3,6 +3,7 @@
 ### 🦾 Skills
 
 <img src="https://img.shields.io/badge/golang-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 
 <!--
 **kihyun1998/kihyun1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
