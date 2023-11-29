@@ -15,6 +15,11 @@
 
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
+### Tool
+
+<img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-#2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+
+
 <!--
 **kihyun1998/kihyun1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
