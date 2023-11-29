@@ -7,9 +7,9 @@
 <img src="https://img.shields.io/badge/golang-00ADD8?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 
-### Library
+### Framework
 
-<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> 
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/gRPC-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 
 <!--
 **kihyun1998/kihyun1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
