@@ -1,8 +1,15 @@
 <a href="https://kihyun1998.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-### 🦾 Skills
+## 🦾 Skills
 
-<img src="https://img.shields.io/badge/golang-00ADD8?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+### Languages
+
+<img src="https://img.shields.io/badge/golang-00ADD8?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+
+### Library
+
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> 
 
 <!--
 **kihyun1998/kihyun1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
