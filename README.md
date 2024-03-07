@@ -6,7 +6,7 @@
 
 **Languages**
 
-<img src="https://img.shields.io/badge/golang-00ADD8?style=plastic&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/csharp-512BD4?style=plastic&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/dart-0175C2?style=plastic&logo=dart&logoColor=black"/> 
+<img src="https://img.shields.io/badge/golang-00ADD8?style=plastic&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/csharp-512BD4?style=plastic&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/dart-0175C2?style=plastic&logo=dart&logoColor=199ED9"/> 
 
 
 **Framework**
