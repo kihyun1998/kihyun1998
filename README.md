@@ -13,16 +13,17 @@
 ├── 🖥️ OS: Windows, macOS
 ├── 🛠️ Tools: VS Code, Docker, Git, Postman, Figma
 ├── 🌐 Blog: https://kihyun1998.github.io/
-├── 📦 Packages:
-│   ├── [flutter_bin](https://pub.dev/packages/flutter_bin)
-│   ├── [x509_cert_store](https://pub.dev/packages/x509_cert_store)
-│   ├── [flutter_alone](https://pub.dev/packages/flutter_alone)
-│   ├── [flutter_inactive_timer](https://pub.dev/packages/flutter_inactive_timer)
-│   └── [flutter_ime](https://pub.dev/packages/flutter_ime)
 └── 📊 Stats:
     ├── GitHub Stats ↓
     └── Top Languages ↓
 ```
+
+📦 [flutter_bin](https://pub.dev/packages/flutter_bin)  
+📦 [x509_cert_store](https://pub.dev/packages/x509_cert_store)  
+📦 [flutter_alone](https://pub.dev/packages/flutter_alone)  
+📦 [flutter_inactive_timer](https://pub.dev/packages/flutter_inactive_timer)  
+📦 [flutter_ime](https://pub.dev/packages/flutter_ime)
+
 
 ---
 
