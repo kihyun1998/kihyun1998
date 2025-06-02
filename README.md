@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kihyun</h1>
-<h3 align="center">Flutter + Riverpod 기반의 크로스 플랫폼 개발자</h3>
+<h3 align="center">Flutter + Riverpod</h3>
 
 <p align="center">
   <a href="https://kihyun1998.github.io/" target="_blank">
