@@ -30,6 +30,8 @@
 | [**flutter_inactive_timer**](https://pub.dev/packages/flutter_inactive_timer) | 유저 비활성 상태를 감지하는 데스크탑 타이머 유틸 |
 | [**flutter_ime**](https://pub.dev/packages/flutter_ime) | Windows/macOS에서 IME(입력기) 상태 제어/감지 기능 제공 |
 | [**flutter_basic_table**](https://pub.dev/packages/flutter_basic_table) | Flutter용 맵 기반 컬럼 관리, 정렬, 선택, 테마, 인터랙션 기능을 갖춘 커스터마이징 가능한 테이블 위젯 |
+| [**flutter_license_manager**](https://pub.dev/packages/flutter_license_manager) | 커스텀 라이선스와 개선된 UI를 지원하는 Flutter용 OSS 라이선스 관리·표시 패키지 |
+| [**flutter_oss_manager**](https://pub.dev/packages/flutter_oss_manager) | 프로젝트 의존성의 오픈소스 라이선스를 스캔·요약·생성하는 Flutter 패키지 및 CLI |
 
 ---
 
