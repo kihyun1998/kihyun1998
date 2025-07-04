@@ -29,6 +29,7 @@
 | [**flutter_alone**](https://pub.dev/packages/flutter_alone) | 앱 단일 실행 보장 및 사용자 감지 기능을 제공하는 유틸 |
 | [**flutter_inactive_timer**](https://pub.dev/packages/flutter_inactive_timer) | 유저 비활성 상태를 감지하는 데스크탑 타이머 유틸 |
 | [**flutter_ime**](https://pub.dev/packages/flutter_ime) | Windows/macOS에서 IME(입력기) 상태 제어/감지 기능 제공 |
+| [**flutter_basic_table**](https://pub.dev/packages/flutter_basic_table) | Flutter용 맵 기반 컬럼 관리, 정렬, 선택, 테마, 인터랙션 기능을 갖춘 커스터마이징 가능한 테이블 위젯 |
 
 ---
 
