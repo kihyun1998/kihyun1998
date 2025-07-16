@@ -32,6 +32,7 @@
 | [**flutter_basic_table**](https://pub.dev/packages/flutter_basic_table) | Flutter용 맵 기반 컬럼 관리, 정렬, 선택, 테마, 인터랙션 기능을 갖춘 커스터마이징 가능한 테이블 위젯 |
 | [**flutter_license_manager**](https://pub.dev/packages/flutter_license_manager) | 커스텀 라이선스와 개선된 UI를 지원하는 Flutter용 OSS 라이선스 관리·표시 패키지 |
 | [**flutter_oss_manager**](https://pub.dev/packages/flutter_oss_manager) | 프로젝트 의존성의 오픈소스 라이선스를 스캔·요약·생성하는 Flutter 패키지 및 CLI |
+| [**flutter_oss_manager**](https://pub.dev/packages/flutter_table_plus) | Flutter용 고도로 맞춤 설정이 가능하고 효율적인 테이블 위젯으로, 동기화된 스크롤, 테마 설정, 정렬, 선택, 열 재정렬 기능을 제공합니다. |
 
 ---
 
