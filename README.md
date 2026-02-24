@@ -46,9 +46,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kihyun1998&show_icons=true&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&icon_color=fafafa&border_color=262626" height="180"/>
+<img src="https://github-readme-stats-delta-five-gb9gi19o85.vercel.app/api?username=kihyun1998&show_icons=true&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&icon_color=fafafa&border_color=262626" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihyun1998&layout=compact&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&border_color=262626" height="180"/>
+<img src="https://github-readme-stats-delta-five-gb9gi19o85.vercel.app/api/top-langs/?username=kihyun1998&layout=compact&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&border_color=262626" height="180"/>
 
 </div>
 
