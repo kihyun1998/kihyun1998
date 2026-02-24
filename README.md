@@ -48,6 +48,10 @@
 | [**flutter_folderview**](https://pub.dev/packages/flutter_folderview) | [![Pub Version](https://img.shields.io/pub/v/flutter_folderview?color=blue)](https://pub.dev/packages/flutter_folderview) | Hierarchical tree/folder view widget |
 | [**flutter_otp_widget**](https://pub.dev/packages/flutter_otp_widget) | [![Pub Version](https://img.shields.io/pub/v/flutter_otp_widget?color=blue)](https://pub.dev/packages/flutter_otp_widget) | OTP text field widget |
 | [**flutter_root_context_menu**](https://pub.dev/packages/flutter_root_context_menu) | [![Pub Version](https://img.shields.io/pub/v/flutter_root_context_menu?color=blue)](https://pub.dev/packages/flutter_root_context_menu) | Context menu with animation support |
+| [**flutter_show_menu**](https://pub.dev/packages/flutter_show_menu) | [![Pub Version](https://img.shields.io/pub/v/flutter_show_menu?color=blue)](https://pub.dev/packages/flutter_show_menu) | OverlayEntry-based showMenu replacement with directional positioning |
+| [**flutter_tweakcn_generator**](https://pub.dev/packages/flutter_tweakcn_generator) | [![Pub Version](https://img.shields.io/pub/v/flutter_tweakcn_generator?color=blue)](https://pub.dev/packages/flutter_tweakcn_generator) | Convert tweakcn CSS themes into Flutter ThemeData |
+| [**just_color_picker**](https://pub.dev/packages/just_color_picker) | [![Pub Version](https://img.shields.io/pub/v/just_color_picker?color=blue)](https://pub.dev/packages/just_color_picker) | HSV color picker with circular hue wheel, alpha slider, and HEX input |
+| [**just_tooltip**](https://pub.dev/packages/just_tooltip) | [![Pub Version](https://img.shields.io/pub/v/just_tooltip?color=blue)](https://pub.dev/packages/just_tooltip) | Lightweight, customizable tooltip with hover/tap triggers and RTL support |
 
 </div>
 
