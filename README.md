@@ -26,7 +26,7 @@
 ## 🧑‍💻 About Me
 
 - Flutter + Riverpod 기반 데스크톱 · 모바일 앱 개발
-- pub.dev에 19개 오픈소스 패키지 배포 및 유지보수
+- pub.dev에 21개 오픈소스 패키지 배포 및 유지보수
 - Go, Rust를 활용한 네이티브 플러그인 · CLI 도구 개발
 - Windows · macOS 크로스 플랫폼에 관심
 
@@ -78,7 +78,9 @@
 | [**flutter_show_menu**](https://pub.dev/packages/flutter_show_menu) | [![Pub Version](https://img.shields.io/pub/v/flutter_show_menu?color=blue)](https://pub.dev/packages/flutter_show_menu) | OverlayEntry-based showMenu replacement with directional positioning |
 | [**flutter_tweakcn_generator**](https://pub.dev/packages/flutter_tweakcn_generator) | [![Pub Version](https://img.shields.io/pub/v/flutter_tweakcn_generator?color=blue)](https://pub.dev/packages/flutter_tweakcn_generator) | Convert tweakcn CSS themes into Flutter ThemeData |
 | [**just_color_picker**](https://pub.dev/packages/just_color_picker) | [![Pub Version](https://img.shields.io/pub/v/just_color_picker?color=blue)](https://pub.dev/packages/just_color_picker) | HSV color picker with circular hue wheel, alpha slider, and HEX input |
+| [**just_save_gallery**](https://pub.dev/packages/just_save_gallery) | [![Pub Version](https://img.shields.io/pub/v/just_save_gallery?color=blue)](https://pub.dev/packages/just_save_gallery) | Lightweight plugin to save images and videos to device gallery (Android/iOS) |
 | [**just_tooltip**](https://pub.dev/packages/just_tooltip) | [![Pub Version](https://img.shields.io/pub/v/just_tooltip?color=blue)](https://pub.dev/packages/just_tooltip) | Lightweight, customizable tooltip with hover/tap triggers and RTL support |
+| [**window_lockable**](https://pub.dev/packages/window_lockable) | [![Pub Version](https://img.shields.io/pub/v/window_lockable?color=blue)](https://pub.dev/packages/window_lockable) | Lock and unlock window size in Windows desktop applications |
 
 </div>
 
