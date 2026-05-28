@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Blog Badge -->
-<a href="https://kihyun-techlog.vercel.app/" target="_blank">
+<a href="https://blog.kihyun1998.com/" target="_blank">
   <img src="https://img.shields.io/badge/Blog-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
