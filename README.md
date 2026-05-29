@@ -26,7 +26,8 @@
 ## 🧑‍💻 About Me
 
 - Flutter + Riverpod 기반 데스크톱 · 모바일 앱 개발
-- pub.dev에 21개 오픈소스 패키지 배포 및 유지보수
+- pub.dev에 23개 오픈소스 패키지 배포 및 유지보수
+- crates.io에 Pure Rust 크레이트(PDF 엔진 · 이미지 디코더) 배포
 - Go, Rust를 활용한 네이티브 플러그인 · CLI 도구 개발
 - Windows · macOS 크로스 플랫폼에 관심
 
@@ -72,15 +73,31 @@
 | [**macos_window_toolkit**](https://pub.dev/packages/macos_window_toolkit) | [![Pub Version](https://img.shields.io/pub/v/macos_window_toolkit?color=blue)](https://pub.dev/packages/macos_window_toolkit) | macOS window info and system permission management plugin |
 | [**flutter_animation_stepper**](https://pub.dev/packages/flutter_animation_stepper) | [![Pub Version](https://img.shields.io/pub/v/flutter_animation_stepper?color=blue)](https://pub.dev/packages/flutter_animation_stepper) | Animated horizontal stepper widget |
 | [**flutter_dropdown_button**](https://pub.dev/packages/flutter_dropdown_button) | [![Pub Version](https://img.shields.io/pub/v/flutter_dropdown_button?color=blue)](https://pub.dev/packages/flutter_dropdown_button) | Overlay-based customizable dropdown |
+| [**flutter_checkbox**](https://pub.dev/packages/flutter_checkbox) | [![Pub Version](https://img.shields.io/pub/v/flutter_checkbox?color=blue)](https://pub.dev/packages/flutter_checkbox) | Checkbox widgets with tristate, tile layout, hover ring, and keyboard navigation |
 | [**flutter_folderview**](https://pub.dev/packages/flutter_folderview) | [![Pub Version](https://img.shields.io/pub/v/flutter_folderview?color=blue)](https://pub.dev/packages/flutter_folderview) | Hierarchical tree/folder view widget |
 | [**flutter_otp_widget**](https://pub.dev/packages/flutter_otp_widget) | [![Pub Version](https://img.shields.io/pub/v/flutter_otp_widget?color=blue)](https://pub.dev/packages/flutter_otp_widget) | OTP text field widget |
 | [**flutter_root_context_menu**](https://pub.dev/packages/flutter_root_context_menu) | [![Pub Version](https://img.shields.io/pub/v/flutter_root_context_menu?color=blue)](https://pub.dev/packages/flutter_root_context_menu) | Context menu with animation support |
 | [**flutter_show_menu**](https://pub.dev/packages/flutter_show_menu) | [![Pub Version](https://img.shields.io/pub/v/flutter_show_menu?color=blue)](https://pub.dev/packages/flutter_show_menu) | OverlayEntry-based showMenu replacement with directional positioning |
 | [**flutter_tweakcn_generator**](https://pub.dev/packages/flutter_tweakcn_generator) | [![Pub Version](https://img.shields.io/pub/v/flutter_tweakcn_generator?color=blue)](https://pub.dev/packages/flutter_tweakcn_generator) | Convert tweakcn CSS themes into Flutter ThemeData |
 | [**just_color_picker**](https://pub.dev/packages/just_color_picker) | [![Pub Version](https://img.shields.io/pub/v/just_color_picker?color=blue)](https://pub.dev/packages/just_color_picker) | HSV color picker with circular hue wheel, alpha slider, and HEX input |
+| [**just_font_scan**](https://pub.dev/packages/just_font_scan) | [![Pub Version](https://img.shields.io/pub/v/just_font_scan?color=blue)](https://pub.dev/packages/just_font_scan) | Scan system fonts via platform-native APIs (DirectWrite / CoreText) |
 | [**just_save_gallery**](https://pub.dev/packages/just_save_gallery) | [![Pub Version](https://img.shields.io/pub/v/just_save_gallery?color=blue)](https://pub.dev/packages/just_save_gallery) | Lightweight plugin to save images and videos to device gallery (Android/iOS) |
 | [**just_tooltip**](https://pub.dev/packages/just_tooltip) | [![Pub Version](https://img.shields.io/pub/v/just_tooltip?color=blue)](https://pub.dev/packages/just_tooltip) | Lightweight, customizable tooltip with hover/tap triggers and RTL support |
 | [**window_lockable**](https://pub.dev/packages/window_lockable) | [![Pub Version](https://img.shields.io/pub/v/window_lockable?color=blue)](https://pub.dev/packages/window_lockable) | Lock and unlock window size in Windows desktop applications |
+
+</div>
+
+---
+
+## 🦀 Rust Crates
+
+<div align="center">
+
+| Crate | Crates.io | Description |
+|:-----:|:---------:|:------------|
+| [**justpdf**](https://crates.io/crates/justpdf) | [![Crates.io](https://img.shields.io/crates/v/justpdf?color=orange)](https://crates.io/crates/justpdf) | Pure Rust PDF engine — read, render, extract, create, modify |
+| [**justbig2**](https://crates.io/crates/justbig2) | [![Crates.io](https://img.shields.io/crates/v/justbig2?color=orange)](https://crates.io/crates/justbig2) | Pure Rust JBIG2 image decoder with no_std support |
+| [**justjp2**](https://crates.io/crates/justjp2) | [![Crates.io](https://img.shields.io/crates/v/justjp2?color=orange)](https://crates.io/crates/justjp2) | Pure Rust JPEG 2000 (JP2/J2K) encoder and decoder |
 
 </div>
 
