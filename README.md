@@ -27,7 +27,7 @@
 
 - Flutter + Riverpod 기반 데스크톱 · 모바일 앱 개발
 - pub.dev에 23개 오픈소스 패키지 배포 및 유지보수
-- crates.io에 Pure Rust 크레이트(PDF 엔진 · 이미지 디코더) 배포
+- crates.io · npm에 Pure Rust PDF 엔진(justpdf) · CLI · WASM 모듈 배포
 - Go, Rust를 활용한 네이티브 플러그인 · CLI 도구 개발
 - Windows · macOS 크로스 플랫폼에 관심
 
@@ -96,8 +96,21 @@
 | Crate | Crates.io | Description |
 |:-----:|:---------:|:------------|
 | [**justpdf**](https://crates.io/crates/justpdf) | [![Crates.io](https://img.shields.io/crates/v/justpdf?color=orange)](https://crates.io/crates/justpdf) | Pure Rust PDF engine — read, render, extract, create, modify |
+| [**justpdf-cli**](https://crates.io/crates/justpdf-cli) | [![Crates.io](https://img.shields.io/crates/v/justpdf-cli?color=orange)](https://crates.io/crates/justpdf-cli) | Command-line PDF tool built on the justpdf engine |
 | [**justbig2**](https://crates.io/crates/justbig2) | [![Crates.io](https://img.shields.io/crates/v/justbig2?color=orange)](https://crates.io/crates/justbig2) | Pure Rust JBIG2 image decoder with no_std support |
 | [**justjp2**](https://crates.io/crates/justjp2) | [![Crates.io](https://img.shields.io/crates/v/justjp2?color=orange)](https://crates.io/crates/justjp2) | Pure Rust JPEG 2000 (JP2/J2K) encoder and decoder |
+
+</div>
+
+---
+
+## 🌐 npm Packages
+
+<div align="center">
+
+| Package | npm | Description |
+|:-------:|:---:|:------------|
+| [**@kihyun1998/justpdf-compress-wasm**](https://www.npmjs.com/package/@kihyun1998/justpdf-compress-wasm) | [![npm](https://img.shields.io/npm/v/@kihyun1998/justpdf-compress-wasm?color=red)](https://www.npmjs.com/package/@kihyun1998/justpdf-compress-wasm) | Compress PDFs entirely in the browser — WASM module powered by justpdf |
 
 </div>
 
