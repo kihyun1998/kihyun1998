@@ -55,6 +55,23 @@
 
 ---
 
+## 🚀 Services
+
+<div align="center">
+
+| Service | Live | Description |
+|:-------:|:----:|:------------|
+| [**Just Apps**](https://just-apps-homepage.vercel.app) | [![Live](https://img.shields.io/badge/Live-2ea44f?style=flat&logo=vercel&logoColor=white)](https://just-apps-homepage.vercel.app) | Unified platform homepage with Supabase auth, hosting Just Apps products |
+| [**Just Insight**](https://insight.kihyun1998.com) | [![Live](https://img.shields.io/badge/Live-2ea44f?style=flat&logo=vercel&logoColor=white)](https://insight.kihyun1998.com) | Simple, approachable data analysis tool |
+| [**Just MLB**](https://mlb.kihyun1998.com) | [![Live](https://img.shields.io/badge/Live-2ea44f?style=flat&logo=vercel&logoColor=white)](https://mlb.kihyun1998.com) | Curated MLB data-analysis dashboard (residual ranking, regression to the mean) |
+| [**Just PDF Web**](https://just-pdf-web.vercel.app) | [![Live](https://img.shields.io/badge/Live-2ea44f?style=flat&logo=vercel&logoColor=white)](https://just-pdf-web.vercel.app) | Compress PDFs entirely in the browser — powered by the justpdf engine |
+| [**Pricly**](https://pricly.vercel.app) | [![Live](https://img.shields.io/badge/Live-2ea44f?style=flat&logo=vercel&logoColor=white)](https://pricly.vercel.app) | Options expected-move calculator & trading analytics |
+| [**Just Roster**](https://just-roster.vercel.app) | [![Live](https://img.shields.io/badge/Live-2ea44f?style=flat&logo=vercel&logoColor=white)](https://just-roster.vercel.app) | Golf team-balancing AI — fill a roster, get balanced four-player groups |
+
+</div>
+
+---
+
 ## 📦 Flutter Packages
 
 <div align="center">
