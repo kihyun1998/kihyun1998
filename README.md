@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Header with Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FAFAFA&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi%2C+I'm+Kihyun;Desktop+%26+Native+Specialist;Flutter+%C2%B7+Rust+%C2%B7+AI+Builder" alt="Typing SVG" /></a>
+# Hi, I'm Kihyun
+
+Desktop & Native Specialist · Flutter · Rust · AI Builder
 
 <br/>
 
