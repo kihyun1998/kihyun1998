@@ -10,9 +10,6 @@ Desktop & Native Specialist · Flutter · Rust · AI Builder
 <a href="https://blog.kihyun1998.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Blog-lightgrey?style=social&logo=rss"/>
 </a>
-<a href="mailto:qkrrlgus1203@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-lightgrey?style=social&logo=gmail"/>
-</a>
 
 <!-- Uncomment when ready
 <a href="https://linkedin.com/in/YOUR_ID" target="_blank">
@@ -34,11 +31,9 @@ Mostly I make services and open source that I wish already existed — if I find
 
 ## Tech Stack
 
-<div align="center">
-
-![My Skills](https://skillicons.dev/icons?i=dart,flutter,go,rust,windows,apple,vscode,git,docker,figma&theme=dark&perline=5)
-
-</div>
+**Languages** &nbsp; Dart · Rust · Go · TypeScript  
+**Frameworks** &nbsp; Flutter · Riverpod  
+**Platforms** &nbsp; Windows · macOS · Web
 
 ---
 
