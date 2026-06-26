@@ -28,7 +28,7 @@ Desktop & Native Specialist · Flutter · Rust · AI Builder
 
 I build things and put them live. When an idea shows up, I move fast — usually with AI — and ship it rather than let it sit.
 
-So far that's [25 Flutter packages](https://pub.dev/publishers/kihyun1998.com/packages), a from-scratch Rust PDF engine, and a handful of products in production. I gravitate toward desktop and native / systems problems.
+Mostly I make services and open source that I wish already existed — if I find myself needing something, I just build it. That's added up to a set of [Flutter packages on pub.dev](https://pub.dev/publishers/kihyun1998.com/packages) and a handful of products running in production.
 
 ---
 
@@ -45,7 +45,7 @@ So far that's [25 Flutter packages](https://pub.dev/publishers/kihyun1998.com/pa
 ## Services
 
 <details>
-<summary><b>Live Products (6)</b> — click to expand</summary>
+<summary><b>Live Products</b> — click to expand</summary>
 
 <br/>
 
@@ -66,14 +66,14 @@ So far that's [25 Flutter packages](https://pub.dev/publishers/kihyun1998.com/pa
 
 <div align="center">
 
-[![pub.dev](https://img.shields.io/badge/pub.dev-25_packages-0175C2?style=flat&logo=dart&logoColor=white)](https://pub.dev/publishers/kihyun1998.com/packages)
-[![crates.io](https://img.shields.io/badge/crates.io-4_crates-orange?style=flat&logo=rust&logoColor=white)](https://crates.io/users/kihyun1998)
-[![npm](https://img.shields.io/badge/npm-1_package-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~kihyun1998)
+[![pub.dev](https://img.shields.io/badge/pub.dev-packages-0175C2?style=flat&logo=dart&logoColor=white)](https://pub.dev/publishers/kihyun1998.com/packages)
+[![crates.io](https://img.shields.io/badge/crates.io-crates-orange?style=flat&logo=rust&logoColor=white)](https://crates.io/users/kihyun1998)
+[![npm](https://img.shields.io/badge/npm-package-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~kihyun1998)
 
 </div>
 
 <details>
-<summary><b>Flutter Packages (25)</b> — click to expand</summary>
+<summary><b>Flutter Packages</b> — click to expand</summary>
 
 <br/>
 
@@ -108,7 +108,7 @@ So far that's [25 Flutter packages](https://pub.dev/publishers/kihyun1998.com/pa
 </details>
 
 <details>
-<summary><b>Rust Crates (4)</b> — click to expand</summary>
+<summary><b>Rust Crates</b> — click to expand</summary>
 
 <br/>
 
@@ -122,7 +122,7 @@ So far that's [25 Flutter packages](https://pub.dev/publishers/kihyun1998.com/pa
 </details>
 
 <details>
-<summary><b>npm Packages (1)</b> — click to expand</summary>
+<summary><b>npm Packages</b> — click to expand</summary>
 
 <br/>
 
