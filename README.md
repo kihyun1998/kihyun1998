@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- Header with Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FAFAFA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Kihyun;Flutter+%2B+Riverpod+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FAFAFA&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Hi%2C+I'm+Kihyun;Desktop+%26+Native+Specialist;Flutter+%C2%B7+Rust+%C2%B7+AI+Builder" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Blog Badge -->
+<!-- Contact Badges -->
 <a href="https://blog.kihyun1998.com/" target="_blank">
   <img src="https://img.shields.io/badge/Blog-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="mailto:qkrrlgus1203@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<!-- Social Badges (uncomment when ready)
+<!-- Uncomment when ready
 <a href="https://linkedin.com/in/YOUR_ID" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://x.com/YOUR_ID" target="_blank">
-  <img src="https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 -->
 
@@ -23,17 +23,17 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 - Flutter + Riverpod 기반 데스크톱 · 모바일 앱 개발
-- pub.dev에 23개 오픈소스 패키지 배포 및 유지보수
+- pub.dev에 [**25개 오픈소스 패키지**](https://pub.dev/publishers/kihyun1998.com/packages) 배포 및 유지보수 (검증된 게시자 `kihyun1998.com`)
 - crates.io · npm에 Pure Rust PDF 엔진(justpdf) · CLI · WASM 모듈 배포
+- Windows · macOS 네이티브 플러그인 · 시스템 통합에 강점
 - Go, Rust를 활용한 네이티브 플러그인 · CLI 도구 개발
-- Windows · macOS 크로스 플랫폼에 관심
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -43,19 +43,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-delta-five-gb9gi19o85.vercel.app/api?username=kihyun1998&show_icons=true&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&icon_color=fafafa&border_color=262626" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-delta-five-gb9gi19o85.vercel.app/api/top-langs/?username=kihyun1998&layout=compact&exclude_repo=TIL,kihyun1998.github.io&hide=Jupyter%20Notebook,HTML,CMake&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&border_color=262626" height="180"/>
-
-</div>
-
----
-
-## 🚀 Services
+## Services
 
 <div align="center">
 
@@ -72,9 +60,20 @@
 
 ---
 
-## 📦 Flutter Packages
+## Open Source
 
 <div align="center">
+
+[![pub.dev](https://img.shields.io/badge/pub.dev-25_packages-0175C2?style=flat&logo=dart&logoColor=white)](https://pub.dev/publishers/kihyun1998.com/packages)
+[![crates.io](https://img.shields.io/badge/crates.io-4_crates-orange?style=flat&logo=rust&logoColor=white)](https://crates.io/users/kihyun1998)
+[![npm](https://img.shields.io/badge/npm-1_package-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~kihyun1998)
+
+</div>
+
+<details>
+<summary><b>Flutter Packages (25)</b> — click to expand</summary>
+
+<br/>
 
 | Package | Pub.dev | Description |
 |:-------:|:-------:|:------------|
@@ -87,6 +86,7 @@
 | [**flutter_license_manager**](https://pub.dev/packages/flutter_license_manager) | [![Pub Version](https://img.shields.io/pub/v/flutter_license_manager?color=blue)](https://pub.dev/packages/flutter_license_manager) | OSS license management and display package |
 | [**flutter_oss_manager**](https://pub.dev/packages/flutter_oss_manager) | [![Pub Version](https://img.shields.io/pub/v/flutter_oss_manager?color=blue)](https://pub.dev/packages/flutter_oss_manager) | CLI for scanning, summarizing, and generating OSS licenses |
 | [**flutter_table_plus**](https://pub.dev/packages/flutter_table_plus) | [![Pub Version](https://img.shields.io/pub/v/flutter_table_plus?color=blue)](https://pub.dev/packages/flutter_table_plus) | Advanced table widget (synchronized scroll, column reordering) |
+| [**flutter_basic_table**](https://pub.dev/packages/flutter_basic_table) | [![Pub Version](https://img.shields.io/pub/v/flutter_basic_table?color=blue)](https://pub.dev/packages/flutter_basic_table) | Customizable table with Map-based column management, sorting, and selection |
 | [**macos_window_toolkit**](https://pub.dev/packages/macos_window_toolkit) | [![Pub Version](https://img.shields.io/pub/v/macos_window_toolkit?color=blue)](https://pub.dev/packages/macos_window_toolkit) | macOS window info and system permission management plugin |
 | [**flutter_animation_stepper**](https://pub.dev/packages/flutter_animation_stepper) | [![Pub Version](https://img.shields.io/pub/v/flutter_animation_stepper?color=blue)](https://pub.dev/packages/flutter_animation_stepper) | Animated horizontal stepper widget |
 | [**flutter_dropdown_button**](https://pub.dev/packages/flutter_dropdown_button) | [![Pub Version](https://img.shields.io/pub/v/flutter_dropdown_button?color=blue)](https://pub.dev/packages/flutter_dropdown_button) | Overlay-based customizable dropdown |
@@ -95,6 +95,7 @@
 | [**flutter_otp_widget**](https://pub.dev/packages/flutter_otp_widget) | [![Pub Version](https://img.shields.io/pub/v/flutter_otp_widget?color=blue)](https://pub.dev/packages/flutter_otp_widget) | OTP text field widget |
 | [**flutter_root_context_menu**](https://pub.dev/packages/flutter_root_context_menu) | [![Pub Version](https://img.shields.io/pub/v/flutter_root_context_menu?color=blue)](https://pub.dev/packages/flutter_root_context_menu) | Context menu with animation support |
 | [**flutter_show_menu**](https://pub.dev/packages/flutter_show_menu) | [![Pub Version](https://img.shields.io/pub/v/flutter_show_menu?color=blue)](https://pub.dev/packages/flutter_show_menu) | OverlayEntry-based showMenu replacement with directional positioning |
+| [**flutter_overlay_menu**](https://pub.dev/packages/flutter_overlay_menu) | [![Pub Version](https://img.shields.io/pub/v/flutter_overlay_menu?color=blue)](https://pub.dev/packages/flutter_overlay_menu) | Overlay menu with showOverlayMenu(), smart positioning, and Material styling |
 | [**flutter_tweakcn_generator**](https://pub.dev/packages/flutter_tweakcn_generator) | [![Pub Version](https://img.shields.io/pub/v/flutter_tweakcn_generator?color=blue)](https://pub.dev/packages/flutter_tweakcn_generator) | Convert tweakcn CSS themes into Flutter ThemeData |
 | [**just_color_picker**](https://pub.dev/packages/just_color_picker) | [![Pub Version](https://img.shields.io/pub/v/just_color_picker?color=blue)](https://pub.dev/packages/just_color_picker) | HSV color picker with circular hue wheel, alpha slider, and HEX input |
 | [**just_font_scan**](https://pub.dev/packages/just_font_scan) | [![Pub Version](https://img.shields.io/pub/v/just_font_scan?color=blue)](https://pub.dev/packages/just_font_scan) | Scan system fonts via platform-native APIs (DirectWrite / CoreText) |
@@ -102,13 +103,12 @@
 | [**just_tooltip**](https://pub.dev/packages/just_tooltip) | [![Pub Version](https://img.shields.io/pub/v/just_tooltip?color=blue)](https://pub.dev/packages/just_tooltip) | Lightweight, customizable tooltip with hover/tap triggers and RTL support |
 | [**window_lockable**](https://pub.dev/packages/window_lockable) | [![Pub Version](https://img.shields.io/pub/v/window_lockable?color=blue)](https://pub.dev/packages/window_lockable) | Lock and unlock window size in Windows desktop applications |
 
-</div>
+</details>
 
----
+<details>
+<summary><b>Rust Crates (4)</b> — click to expand</summary>
 
-## 🦀 Rust Crates
-
-<div align="center">
+<br/>
 
 | Crate | Crates.io | Description |
 |:-----:|:---------:|:------------|
@@ -117,23 +117,34 @@
 | [**justbig2**](https://crates.io/crates/justbig2) | [![Crates.io](https://img.shields.io/crates/v/justbig2?color=orange)](https://crates.io/crates/justbig2) | Pure Rust JBIG2 image decoder with no_std support |
 | [**justjp2**](https://crates.io/crates/justjp2) | [![Crates.io](https://img.shields.io/crates/v/justjp2?color=orange)](https://crates.io/crates/justjp2) | Pure Rust JPEG 2000 (JP2/J2K) encoder and decoder |
 
-</div>
+</details>
 
----
+<details>
+<summary><b>npm Packages (1)</b> — click to expand</summary>
 
-## 🌐 npm Packages
-
-<div align="center">
+<br/>
 
 | Package | npm | Description |
 |:-------:|:---:|:------------|
 | [**@kihyun1998/justpdf-compress-wasm**](https://www.npmjs.com/package/@kihyun1998/justpdf-compress-wasm) | [![npm](https://img.shields.io/npm/v/@kihyun1998/justpdf-compress-wasm?color=red)](https://www.npmjs.com/package/@kihyun1998/justpdf-compress-wasm) | Compress PDFs entirely in the browser — WASM module powered by justpdf |
 
+</details>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-delta-five-gb9gi19o85.vercel.app/api?username=kihyun1998&show_icons=true&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&icon_color=fafafa&border_color=262626" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-delta-five-gb9gi19o85.vercel.app/api/top-langs/?username=kihyun1998&layout=compact&exclude_repo=TIL,kihyun1998.github.io&hide=Jupyter%20Notebook,HTML,CMake&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&border_color=262626" height="180"/>
+
 </div>
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 
