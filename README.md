@@ -25,11 +25,9 @@
 
 ## About Me
 
-- Flutter + Riverpod 기반 데스크톱 · 모바일 앱 개발
-- pub.dev에 [**25개 오픈소스 패키지**](https://pub.dev/publishers/kihyun1998.com/packages) 배포 및 유지보수 (검증된 게시자 `kihyun1998.com`)
-- crates.io · npm에 Pure Rust PDF 엔진(justpdf) · CLI · WASM 모듈 배포
-- Windows · macOS 네이티브 플러그인 · 시스템 통합에 강점
-- Go, Rust를 활용한 네이티브 플러그인 · CLI 도구 개발
+I build things and put them live. When an idea shows up, I move fast — usually with AI — and ship it rather than let it sit.
+
+So far that's [25 Flutter packages](https://pub.dev/publishers/kihyun1998.com/packages), a from-scratch Rust PDF engine, and a handful of products in production. I gravitate toward desktop and native / systems problems.
 
 ---
 
@@ -45,7 +43,10 @@
 
 ## Services
 
-<div align="center">
+<details>
+<summary><b>Live Products (6)</b> — click to expand</summary>
+
+<br/>
 
 | Service | Live | Description |
 |:-------:|:----:|:------------|
@@ -56,7 +57,7 @@
 | [**Pricly**](https://pricly.vercel.app) | [![Live](https://img.shields.io/badge/Live-2ea44f?style=flat&logo=vercel&logoColor=white)](https://pricly.vercel.app) | Options expected-move calculator & trading analytics |
 | [**Just Roster**](https://just-roster.vercel.app) | [![Live](https://img.shields.io/badge/Live-2ea44f?style=flat&logo=vercel&logoColor=white)](https://just-roster.vercel.app) | Golf team-balancing AI — fill a roster, get balanced four-player groups |
 
-</div>
+</details>
 
 ---
 
@@ -129,27 +130,5 @@
 | [**@kihyun1998/justpdf-compress-wasm**](https://www.npmjs.com/package/@kihyun1998/justpdf-compress-wasm) | [![npm](https://img.shields.io/npm/v/@kihyun1998/justpdf-compress-wasm?color=red)](https://www.npmjs.com/package/@kihyun1998/justpdf-compress-wasm) | Compress PDFs entirely in the browser — WASM module powered by justpdf |
 
 </details>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-delta-five-gb9gi19o85.vercel.app/api?username=kihyun1998&show_icons=true&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&icon_color=fafafa&border_color=262626" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-delta-five-gb9gi19o85.vercel.app/api/top-langs/?username=kihyun1998&layout=compact&exclude_repo=TIL,kihyun1998.github.io&hide=Jupyter%20Notebook,HTML,CMake&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&border_color=262626" height="180"/>
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kihyun1998&bg_color=0a0a0a&color=a3a3a3&line=fafafa&point=fafafa&area_color=262626&area=true&hide_border=true)](https://github.com/kihyun1998)
-
-</div>
 
 ---
