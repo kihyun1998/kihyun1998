@@ -8,10 +8,10 @@ Desktop & Native Specialist · Flutter · Rust · AI Builder
 
 <!-- Contact Badges -->
 <a href="https://blog.kihyun1998.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-30363d?style=flat-square&logo=rss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Blog-lightgrey?style=social&logo=rss"/>
 </a>
 <a href="mailto:qkrrlgus1203@gmail.com">
-  <img src="https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Email-lightgrey?style=social&logo=gmail"/>
 </a>
 
 <!-- Uncomment when ready
