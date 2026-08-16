@@ -99,6 +99,8 @@ Mostly I make services and open source that I wish already existed — if I find
 | [**just_save_gallery**](https://pub.dev/packages/just_save_gallery) | [![Pub Version](https://img.shields.io/pub/v/just_save_gallery?color=blue)](https://pub.dev/packages/just_save_gallery) | Lightweight plugin to save images and videos to device gallery (Android/iOS) |
 | [**just_tooltip**](https://pub.dev/packages/just_tooltip) | [![Pub Version](https://img.shields.io/pub/v/just_tooltip?color=blue)](https://pub.dev/packages/just_tooltip) | Lightweight, customizable tooltip with hover/tap triggers and RTL support |
 | [**window_lockable**](https://pub.dev/packages/window_lockable) | [![Pub Version](https://img.shields.io/pub/v/window_lockable?color=blue)](https://pub.dev/packages/window_lockable) | Lock and unlock window size in Windows desktop applications |
+| [**boring_avatars**](https://pub.dev/packages/boring_avatars) | [![Pub Version](https://img.shields.io/pub/v/boring_avatars?color=blue)](https://pub.dev/packages/boring_avatars) | Bit-exact Dart port of boring-avatars — same name in, same avatar out |
+| [**ffi_url_launcher**](https://pub.dev/packages/ffi_url_launcher) | [![Pub Version](https://img.shields.io/pub/v/ffi_url_launcher?color=blue)](https://pub.dev/packages/ffi_url_launcher) | Open a URL in the system handler on Windows/macOS — pure Dart, no native sources |
 
 </details>
 
@@ -113,6 +115,7 @@ Mostly I make services and open source that I wish already existed — if I find
 | [**justpdf-cli**](https://crates.io/crates/justpdf-cli) | [![Crates.io](https://img.shields.io/crates/v/justpdf-cli?color=orange)](https://crates.io/crates/justpdf-cli) | Command-line PDF tool built on the justpdf engine |
 | [**justbig2**](https://crates.io/crates/justbig2) | [![Crates.io](https://img.shields.io/crates/v/justbig2?color=orange)](https://crates.io/crates/justbig2) | Pure Rust JBIG2 image decoder with no_std support |
 | [**justjp2**](https://crates.io/crates/justjp2) | [![Crates.io](https://img.shields.io/crates/v/justjp2?color=orange)](https://crates.io/crates/justjp2) | Pure Rust JPEG 2000 (JP2/J2K) encoder and decoder |
+| [**justerm-core**](https://crates.io/crates/justerm-core) | [![Crates.io](https://img.shields.io/crates/v/justerm-core?color=orange)](https://crates.io/crates/justerm-core) | Pure terminal engine — VT byte stream in, grid + scrollback + damage out |
 
 </details>
 
@@ -124,6 +127,9 @@ Mostly I make services and open source that I wish already existed — if I find
 | Package | npm | Description |
 |:-------:|:---:|:------------|
 | [**@kihyun1998/justpdf-compress-wasm**](https://www.npmjs.com/package/@kihyun1998/justpdf-compress-wasm) | [![npm](https://img.shields.io/npm/v/@kihyun1998/justpdf-compress-wasm?color=red)](https://www.npmjs.com/package/@kihyun1998/justpdf-compress-wasm) | Compress PDFs entirely in the browser — WASM module powered by justpdf |
+| [**justerm-web**](https://www.npmjs.com/package/justerm-web) | [![npm](https://img.shields.io/npm/v/justerm-web?color=red)](https://www.npmjs.com/package/justerm-web) | Browser terminal widget for the justerm engine |
+| [**justerm-renderer**](https://www.npmjs.com/package/justerm-renderer) | [![npm](https://img.shields.io/npm/v/justerm-renderer?color=red)](https://www.npmjs.com/package/justerm-renderer) | WebGL2 terminal grid renderer for the justerm family |
+| [**justerm-wasm-decode**](https://www.npmjs.com/package/justerm-wasm-decode) | [![npm](https://img.shields.io/npm/v/justerm-wasm-decode?color=red)](https://www.npmjs.com/package/justerm-wasm-decode) | WASM decoder for justerm's wire format (structure-of-arrays cell columns) |
 
 </details>
 
