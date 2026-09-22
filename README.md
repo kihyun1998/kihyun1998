@@ -101,6 +101,10 @@ Mostly I make services and open source that I wish already existed — if I find
 | [**window_lockable**](https://pub.dev/packages/window_lockable) | [![Pub Version](https://img.shields.io/pub/v/window_lockable?color=blue)](https://pub.dev/packages/window_lockable) | Lock and unlock window size in Windows desktop applications |
 | [**boring_avatars**](https://pub.dev/packages/boring_avatars) | [![Pub Version](https://img.shields.io/pub/v/boring_avatars?color=blue)](https://pub.dev/packages/boring_avatars) | Bit-exact Dart port of boring-avatars — same name in, same avatar out |
 | [**ffi_url_launcher**](https://pub.dev/packages/ffi_url_launcher) | [![Pub Version](https://img.shields.io/pub/v/ffi_url_launcher?color=blue)](https://pub.dev/packages/ffi_url_launcher) | Open a URL in the system handler on Windows/macOS — pure Dart, no native sources |
+| [**just_sonner**](https://pub.dev/packages/just_sonner) | [![Pub Version](https://img.shields.io/pub/v/just_sonner?color=blue)](https://pub.dev/packages/just_sonner) | Sonner-style stacking toasts for desktop — hover fan-out, in-place updates, promise toasts, no BuildContext |
+| [**flutter_syntax_highlight**](https://pub.dev/packages/flutter_syntax_highlight) | [![Pub Version](https://img.shields.io/pub/v/flutter_syntax_highlight?color=blue)](https://pub.dev/packages/flutter_syntax_highlight) | Dart-only syntax highlighting — pure-Dart tokenizer with a thin widget on top, byte-exact round trip |
+| [**flutter_example_template**](https://pub.dev/packages/flutter_example_template) | [![Pub Version](https://img.shields.io/pub/v/flutter_example_template?color=blue)](https://pub.dev/packages/flutter_example_template) | Example-app shell for Flutter packages — preview at three widths, device wall, code pane, settings panel |
+| [**flutter_smooth_wheel_scroll**](https://pub.dev/packages/flutter_smooth_wheel_scroll) | [![Pub Version](https://img.shields.io/pub/v/flutter_smooth_wheel_scroll?color=blue)](https://pub.dev/packages/flutter_smooth_wheel_scroll) | Smooth, adjustable mouse wheel scrolling for desktop — spring, curve, or lerp animation |
 
 </details>
 
