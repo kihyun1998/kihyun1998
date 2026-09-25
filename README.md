@@ -2,7 +2,9 @@
 
 # Hi, I'm Kihyun
 
-Desktop & Native Specialist · Flutter · Rust · AI Builder
+**Solving problems in fields I don't know yet — with AI.**
+
+Desktop & Native Specialist · Flutter · Rust
 
 <br/>
 
