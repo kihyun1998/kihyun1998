@@ -116,6 +116,11 @@ Mostly I make services and open source that I wish already existed — if I find
 | Crate | Crates.io | Description |
 |:-----:|:---------:|:------------|
 | [**justpdf**](https://crates.io/crates/justpdf) | [![Crates.io](https://img.shields.io/crates/v/justpdf?color=orange)](https://crates.io/crates/justpdf) | Pure Rust PDF engine — read, render, extract, create, modify |
+| [**justpdf-core**](https://crates.io/crates/justpdf-core) | [![Crates.io](https://img.shields.io/crates/v/justpdf-core?color=orange)](https://crates.io/crates/justpdf-core) | PDF core — parsing, writing, compression, text extraction, encryption, digital signatures |
+| [**justpdf-render**](https://crates.io/crates/justpdf-render) | [![Crates.io](https://img.shields.io/crates/v/justpdf-render?color=orange)](https://crates.io/crates/justpdf-render) | PDF rendering for justpdf — rasterize pages to images |
+| [**justpdf-formats**](https://crates.io/crates/justpdf-formats) | [![Crates.io](https://img.shields.io/crates/v/justpdf-formats?color=orange)](https://crates.io/crates/justpdf-formats) | Extended formats for justpdf — XPS, EPUB, SVG, Office, CBZ |
+| [**justpdf-special**](https://crates.io/crates/justpdf-special) | [![Crates.io](https://img.shields.io/crates/v/justpdf-special?color=orange)](https://crates.io/crates/justpdf-special) | Special features for justpdf — OCR, barcode, ZUGFeRD, BiDi, deskew |
+| [**justpdf-ffi**](https://crates.io/crates/justpdf-ffi) | [![Crates.io](https://img.shields.io/crates/v/justpdf-ffi?color=orange)](https://crates.io/crates/justpdf-ffi) | C FFI bindings for the justpdf engine |
 | [**justpdf-cli**](https://crates.io/crates/justpdf-cli) | [![Crates.io](https://img.shields.io/crates/v/justpdf-cli?color=orange)](https://crates.io/crates/justpdf-cli) | Command-line PDF tool built on the justpdf engine |
 | [**justbig2**](https://crates.io/crates/justbig2) | [![Crates.io](https://img.shields.io/crates/v/justbig2?color=orange)](https://crates.io/crates/justbig2) | Pure Rust JBIG2 image decoder with no_std support |
 | [**justjp2**](https://crates.io/crates/justjp2) | [![Crates.io](https://img.shields.io/crates/v/justjp2?color=orange)](https://crates.io/crates/justjp2) | Pure Rust JPEG 2000 (JP2/J2K) encoder and decoder |
