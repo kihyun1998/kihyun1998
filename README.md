@@ -85,7 +85,6 @@ Mostly I make services and open source that I wish already existed — if I find
 | [**flutter_license_manager**](https://pub.dev/packages/flutter_license_manager) | [![Pub Version](https://img.shields.io/pub/v/flutter_license_manager?color=blue)](https://pub.dev/packages/flutter_license_manager) | OSS license management and display package |
 | [**flutter_oss_manager**](https://pub.dev/packages/flutter_oss_manager) | [![Pub Version](https://img.shields.io/pub/v/flutter_oss_manager?color=blue)](https://pub.dev/packages/flutter_oss_manager) | CLI for scanning, summarizing, and generating OSS licenses |
 | [**flutter_table_plus**](https://pub.dev/packages/flutter_table_plus) | [![Pub Version](https://img.shields.io/pub/v/flutter_table_plus?color=blue)](https://pub.dev/packages/flutter_table_plus) | Advanced table widget (synchronized scroll, column reordering) |
-| [**flutter_basic_table**](https://pub.dev/packages/flutter_basic_table) | [![Pub Version](https://img.shields.io/pub/v/flutter_basic_table?color=blue)](https://pub.dev/packages/flutter_basic_table) | Customizable table with Map-based column management, sorting, and selection |
 | [**macos_window_toolkit**](https://pub.dev/packages/macos_window_toolkit) | [![Pub Version](https://img.shields.io/pub/v/macos_window_toolkit?color=blue)](https://pub.dev/packages/macos_window_toolkit) | macOS window info and system permission management plugin |
 | [**flutter_animation_stepper**](https://pub.dev/packages/flutter_animation_stepper) | [![Pub Version](https://img.shields.io/pub/v/flutter_animation_stepper?color=blue)](https://pub.dev/packages/flutter_animation_stepper) | Animated horizontal stepper widget |
 | [**flutter_dropdown_button**](https://pub.dev/packages/flutter_dropdown_button) | [![Pub Version](https://img.shields.io/pub/v/flutter_dropdown_button?color=blue)](https://pub.dev/packages/flutter_dropdown_button) | Overlay-based customizable dropdown |
@@ -94,7 +93,6 @@ Mostly I make services and open source that I wish already existed — if I find
 | [**flutter_otp_widget**](https://pub.dev/packages/flutter_otp_widget) | [![Pub Version](https://img.shields.io/pub/v/flutter_otp_widget?color=blue)](https://pub.dev/packages/flutter_otp_widget) | OTP text field widget |
 | [**flutter_root_context_menu**](https://pub.dev/packages/flutter_root_context_menu) | [![Pub Version](https://img.shields.io/pub/v/flutter_root_context_menu?color=blue)](https://pub.dev/packages/flutter_root_context_menu) | Context menu with animation support |
 | [**flutter_show_menu**](https://pub.dev/packages/flutter_show_menu) | [![Pub Version](https://img.shields.io/pub/v/flutter_show_menu?color=blue)](https://pub.dev/packages/flutter_show_menu) | OverlayEntry-based showMenu replacement with directional positioning |
-| [**flutter_overlay_menu**](https://pub.dev/packages/flutter_overlay_menu) | [![Pub Version](https://img.shields.io/pub/v/flutter_overlay_menu?color=blue)](https://pub.dev/packages/flutter_overlay_menu) | Overlay menu with showOverlayMenu(), smart positioning, and Material styling |
 | [**flutter_tweakcn_generator**](https://pub.dev/packages/flutter_tweakcn_generator) | [![Pub Version](https://img.shields.io/pub/v/flutter_tweakcn_generator?color=blue)](https://pub.dev/packages/flutter_tweakcn_generator) | Convert tweakcn CSS themes into Flutter ThemeData |
 | [**just_color_picker**](https://pub.dev/packages/just_color_picker) | [![Pub Version](https://img.shields.io/pub/v/just_color_picker?color=blue)](https://pub.dev/packages/just_color_picker) | HSV color picker with circular hue wheel, alpha slider, and HEX input |
 | [**just_font_scan**](https://pub.dev/packages/just_font_scan) | [![Pub Version](https://img.shields.io/pub/v/just_font_scan?color=blue)](https://pub.dev/packages/just_font_scan) | Scan system fonts via platform-native APIs (DirectWrite / CoreText) |
@@ -122,6 +120,7 @@ Mostly I make services and open source that I wish already existed — if I find
 | [**justbig2**](https://crates.io/crates/justbig2) | [![Crates.io](https://img.shields.io/crates/v/justbig2?color=orange)](https://crates.io/crates/justbig2) | Pure Rust JBIG2 image decoder with no_std support |
 | [**justjp2**](https://crates.io/crates/justjp2) | [![Crates.io](https://img.shields.io/crates/v/justjp2?color=orange)](https://crates.io/crates/justjp2) | Pure Rust JPEG 2000 (JP2/J2K) encoder and decoder |
 | [**justerm-core**](https://crates.io/crates/justerm-core) | [![Crates.io](https://img.shields.io/crates/v/justerm-core?color=orange)](https://crates.io/crates/justerm-core) | Pure terminal engine — VT byte stream in, grid + scrollback + damage out |
+| [**justsftp**](https://crates.io/crates/justsftp) | [![Crates.io](https://img.shields.io/crates/v/justsftp?color=orange)](https://crates.io/crates/justsftp) | SFTP v3 client over any async byte stream — paths are bytes, never a String |
 
 </details>
 
@@ -136,6 +135,7 @@ Mostly I make services and open source that I wish already existed — if I find
 | [**justerm-web**](https://www.npmjs.com/package/justerm-web) | [![npm](https://img.shields.io/npm/v/justerm-web?color=red)](https://www.npmjs.com/package/justerm-web) | Browser terminal widget for the justerm engine |
 | [**justerm-renderer**](https://www.npmjs.com/package/justerm-renderer) | [![npm](https://img.shields.io/npm/v/justerm-renderer?color=red)](https://www.npmjs.com/package/justerm-renderer) | WebGL2 terminal grid renderer for the justerm family |
 | [**justerm-wasm-decode**](https://www.npmjs.com/package/justerm-wasm-decode) | [![npm](https://img.shields.io/npm/v/justerm-wasm-decode?color=red)](https://www.npmjs.com/package/justerm-wasm-decode) | WASM decoder for justerm's wire format (structure-of-arrays cell columns) |
+| [**@kihyun1998/justable**](https://www.npmjs.com/package/@kihyun1998/justable) | [![npm](https://img.shields.io/npm/v/@kihyun1998/justable?color=red)](https://www.npmjs.com/package/@kihyun1998/justable) | Virtualized, keyboard-navigable data table for React, themed through CSS variables |
 
 </details>
 
