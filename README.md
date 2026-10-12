@@ -34,7 +34,7 @@ Mostly I make services and open source that I wish already existed — if I find
 ## Tech Stack
 
 **Languages** &nbsp; Dart · Rust · Go · TypeScript  
-**Frameworks** &nbsp; Flutter · Riverpod  
+**Frameworks** &nbsp; Flutter · Riverpod · Tauri  
 **Platforms** &nbsp; Windows · macOS · Web
 
 ---
